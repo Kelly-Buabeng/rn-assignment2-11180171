@@ -4,8 +4,7 @@ export default function Page() {
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>Hello World</Text>
-        <Text style={styles.subtitle}>My name is Kelly Boobs</Text>
+        <Text style={styles.subtitle}>My name is <Text style={styles.title}>Kelly Buabeng</Text></Text>
       </View>
     </View>
   );
@@ -25,11 +24,11 @@ const styles = StyleSheet.create({
     marginHorizontal: "auto",
   },
   title: {
-    fontSize: 64,
+    fontSize: 24,
     fontWeight: "bold",
   },
   subtitle: {
-    fontSize: 36,
+    fontSize: 24,
     color: "#38434D",
   },
 });
