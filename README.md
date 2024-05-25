@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# 11180171 
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![alt text](<Screenshot 2024-05-25 194146.png>)
 
 ## Get started
 
